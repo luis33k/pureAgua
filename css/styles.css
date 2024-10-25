@@ -683,8 +683,7 @@ section {
   margin: 0%;
   gap: 5rem;
   height: 100vh;
-
-  background-image: url(/asessts/bgwhite2.png);
+  background-image: url(../asessts/bgwhite2.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
