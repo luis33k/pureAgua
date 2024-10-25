@@ -1,4 +1,4 @@
-# pureAgua - *this is all an example site I coded for a client AKA not real company!
+# pureAgua - *example site I coded for a client AKA not real company!
 Responsive Website for a Non-Profit 
 Home Page
 Welcome to Water for All
