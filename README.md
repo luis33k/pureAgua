@@ -1,5 +1,5 @@
-# pureAgua - *example site I coded not real company!
-Responsive Website for a Non-Profit 
+# pureAgua
+Responsive Website for a Non-Profit (Project for class)
 Home Page
 Welcome to Water for All
 Clean Water. Healthy Lives. Global Impact.
