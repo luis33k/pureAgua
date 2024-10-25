@@ -393,7 +393,7 @@
   #home {
     height: 83vh;
     margin-bottom: 0;
-l
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
 
   article {
@@ -572,7 +572,7 @@ l
   }
 
   #about {
-    background-image: url(../asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite1.png);
   }
 
   #goals-objectives {
