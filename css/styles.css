@@ -89,7 +89,7 @@ a:hover {
   width: 100%;
   height: 2px;
   background-color: #555555;
-  transition: all 0.3 ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .menu-links {
@@ -100,7 +100,7 @@ a:hover {
   width: fit-content;
   max-height: 0;
   overflow: hidden;
-  transition: all 0.3 ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .menu-links a {
@@ -110,7 +110,7 @@ a:hover {
   font-size: 1.5rem;
   color: #555555;
   text-decoration: none;
-  transition: all 0.3 ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .menu-links li {
@@ -146,7 +146,7 @@ a:hover {
 }
 
 section {
-  padding-top: 4vh;
+  padding-top: 2vh;
   height: 96vh;
   box-sizing: border-box;
   min-height: fit-content;
@@ -362,7 +362,6 @@ section {
   background-color: #f9f9f9;
   padding: 40px;
   width: 30%;
-  min-width: 280px;
   border-radius: 10px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -433,7 +432,6 @@ section {
   background-color: #f9f9f9;
   padding: 40px;
   width: 30%;
-  min-width: 280px;
   border-radius: 10px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -983,7 +981,7 @@ section {
   border-radius: 1.5rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
-  background: (250, 250, 250);
+  background: rgb(250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
 }
