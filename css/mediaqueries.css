@@ -169,7 +169,7 @@
   #home {
     height: 83vh;
     margin-bottom: 0;
-    background-image: url(/asessts/mobile-bgwhite1.png);
+    background-image: url(../asessts/mobile-bgwhite1.png);
   }
 
   article {
@@ -299,7 +299,7 @@
 
   #initiatives2 {
     padding: 10vh;
-    background-image: url(/asessts/mobile-bgblack1.png);
+    background-image: url(../asessts/mobile-bgblack1.png);
   }
 
   .service-card {
@@ -344,33 +344,33 @@
   }
 
   #initiatives {
-    background-image: url(/asessts/mobile-bgblack2.png);
+    background-image: url(../asessts/mobile-bgblack2.png);
   }
 
   #about {
-    background-image: url(/asessts/mobile-bgwhite1.png);
+    background-image: url(../asessts/mobile-bgwhite1.png);
   }
 
   #goals-objectives {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #values-section {
-    background-image: url(/asessts/mobile-bgblack2.png);
+    background-image: url(../asessts/mobile-bgblack2.png);
   }
   #team-section {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #testimonials-section {
-    background-image: url(/asessts/mobile-bgblack1.png);
+    background-image: url(../asessts/mobile-bgblack1.png);
   }
   #services-section {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #stats-objectives {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #donate-section {
-    background-image: url(/asessts/mobile-bgblack1.png);
+    background-image: url(../asessts/mobile-bgblack1.png);
   }
 }
 
@@ -393,7 +393,7 @@
   #home {
     height: 83vh;
     margin-bottom: 0;
-    background-image: url(/asessts/mobile-bgwhite1.png);
+    background-image: url(../asessts/mobile-bgwhite1.png);
   }
 
   article {
@@ -523,7 +523,7 @@
 
   #initiatives2 {
     padding: 10vh;
-    background-image: url(/asessts/mobile-bgblack1.png);
+    background-image: url(../asessts/mobile-bgblack1.png);
   }
 
   .service-card {
@@ -568,32 +568,32 @@
   }
 
   #initiatives {
-    background-image: url(/asessts/mobile-bgblack2.png);
+    background-image: url(../asessts/mobile-bgblack2.png);
   }
 
   #about {
-    background-image: url(/asessts/mobile-bgwhite1.png);
+    background-image: url(../asessts/mobile-bgwhite1.png);
   }
 
   #goals-objectives {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #values-section {
-    background-image: url(/asessts/mobile-bgblack2.png);
+    background-image: url(../asessts/mobile-bgblack2.png);
   }
   #team-section {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #testimonials-section {
-    background-image: url(/asessts/mobile-bgblack1.png);
+    background-image: url(../asessts/mobile-bgblack1.png);
   }
   #services-section {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #stats-objectives {
-    background-image: url(/asessts/mobile-bgwhite2.png);
+    background-image: url(../asessts/mobile-bgwhite2.png);
   }
   #donate-section {
-    background-image: url(/asessts/mobile-bgblack1.png);
+    background-image: url(../asessts/mobile-bgblack1.png);
   }
 }
