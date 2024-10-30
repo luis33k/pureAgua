@@ -150,6 +150,13 @@
     text-underline-offset: 0.5rem;
     text-decoration-color: rgb(182, 184, 183);
   }
+  .form-group input, 
+  .form-group textarea {
+    width: 80%;
+  }
+  #donate-form input {
+    width: 80%;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -382,6 +389,13 @@
   #donate-section {
     background-image: url(../asessts/mobile-bgblack1.png);
   }
+  .form-group input, 
+.form-group textarea {
+  width: 85%;
+}
+#donate-form input {
+  width: 60%;
+}
 }
 
 @media screen and (max-width: 320px) {
@@ -606,4 +620,12 @@
   #donate-section {
     background-image: url(../asessts/mobile-bgblack1.png);
   }
+
+.form-group input, 
+.form-group textarea {
+  width: 70%;
+}
+#donate-form input {
+  width: auto;
+}
 }
