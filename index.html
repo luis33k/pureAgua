@@ -67,10 +67,7 @@
             </p>
 
             <div class="button-container">
-                <button class="button button-color-2"
-                    onclick="window.open('', '_blank')">
-                    DONATE
-                </button>
+                <a href="#donate-section" class="button button-color-2">DONATE</a>
             </div>
         </div>
     </section>
@@ -352,8 +349,22 @@
         <div class="donate-container">
           <h2>DONATE NOW!</h2>
           <p>Your donation can help bring clean water to communities in need. Every contribution counts and brings hope to those without access to safe drinking water.</p>
-          <a href="#donate" class="donate-btn">Support</a>
-        </div>
+          <form id="donate-form">
+            <div class="form-group">
+              <label for="donor-name">Your Name</label>
+              <input type="text" id="donor-name" name="donor-name" required>
+            </div>
+            <div class="form-group">
+              <label for="donor-email">Your Email</label>
+              <input type="email" id="donor-email" name="donor-email" required>
+            </div>
+            <div class="form-group">
+              <label for="donation-amount">Donation Amount (USD)</label>
+              <input type="number" id="donation-amount" name="donation-amount" min="5" required>
+            </div>
+            <button type="submit" class="donate-btn">Donate Now</button>
+          </form>
+              </div>
         <img src="asessts/save.png" alt="SAVE lives Icon" class="donate-icon">
       </section>
 
@@ -379,7 +390,27 @@
             <div class="contact-item">
               <p>123 Waterway St, Clean City, Earth</p>
             </div>
-      
+
+            <form id="contact-form">
+                <div class="form-group">
+                  <label for="name">Your Name</label>
+                  <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                  <label for="email">Your Email</label>
+                  <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                  <label for="subject">Subject</label>
+                  <input type="text" id="subject" name="subject" required>
+                </div>
+                <div class="form-group">
+                  <label for="message">Message</label>
+                  <textarea id="message" name="message" rows="5" required></textarea>
+                </div>
+                <button type="submit" class="contact-btn">Send</button>
+              </form>
+
             <div class="social-icons">
               <a href="#" class="social-icon">
                 <img src="asessts/facebook-icon.png" alt="Facebook Icon">
