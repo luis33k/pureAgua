@@ -1163,7 +1163,7 @@ section {
   color: #f9f9f9;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
   transform: translateY(-5px);
-  box-shadow: 0 8px 25px rgba(197, 197, 197, 0.2);;
+  box-shadow: 0 8px 25px rgba(197, 197, 197, 0.2);
 }
 
 .form-group {
@@ -1177,7 +1177,7 @@ section {
   margin-bottom: 5px;
 }
 
-.form-group input, 
+.form-group input,
 .form-group textarea {
   width: auto;
   padding: 15px;
@@ -1189,10 +1189,10 @@ section {
   color: #333333;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   outline: none;
-  resize: none; 
+  resize: none;
 }
 
-.form-group input:focus, 
+.form-group input:focus,
 .form-group textarea:focus {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
